@@ -1,4 +1,4 @@
-# Spatial Damage Analysis using gwlearn (Noto Peninsula)
+# Spatial Damage Analysis (Noto Peninsula)
 
 This repository contains an exploratory analysis of earthquake-induced building damage using spatial data and machine learning.
 
